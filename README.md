@@ -6,7 +6,7 @@
 👉 [**Click Here to Open the Project**](https://VrishankDesai.github.io/sbi-msme-ai-loan-portal/SBI_MSME_Portal_v2.html)
 
 ## 📄 SRS Document
-👉 [**View Software Requirements Specification**](https://github.com/VrishankDesai/sbi-msme-ai-loan-portal/blob/main/SRS_SBI_MSME_Portal.md)
+👉 [**View SRS Document**](https://github.com/VrishankDesai/sbi-msme-ai-loan-portal/blob/main/SRS_SBI_MSME_Portal.md)
 
 ## ✨ Features
 - 🤖 AI Credit Scoring (XGBoost + Random Forest)
